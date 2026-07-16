@@ -11,10 +11,6 @@ public class Solution {
             preGCD[i] = GCD(max,nums[i]);
         }
 
-        foreach(int i in preGCD){
-            Console.Write(i+" ");
-        }
-
         Array.Sort(preGCD);
 
         long sum = 0l;
