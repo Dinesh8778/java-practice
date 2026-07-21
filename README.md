@@ -103,3 +103,15 @@ This repository is automatically synced with my practice environment, so new sol
 ---
 
 ⭐ Consistency beats intensity. Keep solving.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0860-lemonade-change](https://github.com/Dinesh8778/java-practice/tree/main/Java/Easy/0860-lemonade-change/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0860-lemonade-change](https://github.com/Dinesh8778/java-practice/tree/main/Java/Easy/0860-lemonade-change/) | Easy |
+<!---LeetCode Topics End-->
